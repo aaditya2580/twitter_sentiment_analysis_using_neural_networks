@@ -1,5 +1,5 @@
 
-# Twitter Sentiment analysis
+# twitter_sentiment_analysis_using_neural_networks
 
 A brief description of what this project does and who it's for
 
