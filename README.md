@@ -6,7 +6,11 @@ Twitter sentiment analysis is a powerful tool for understanding public opinion a
 
 Acknowledgements
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/
+
+
 Appendix
+
+
 A.1 Data Preprocessing
 
 Data Cleaning: i have checked for and handled missing values in the dataset, ensuring that no crucial information was lost during the process.
